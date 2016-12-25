@@ -1,0 +1,9 @@
+{
+  "name": "cordova-rtc",
+  "version": "0.1.0",
+  "dependencies": {
+    "socket.io-client": "^1.7.2",
+    "angular": "^1.6.1"
+  },
+  "devDependencies": {}
+}
